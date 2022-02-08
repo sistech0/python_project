@@ -1,0 +1,8 @@
+numpy
+opencv-python
+tensorflow
+sklearn
+numpy
+keras
+pytest
+click
